@@ -10,6 +10,7 @@ class App extends React.Component{
                 <Chart />
                 <CountryPicker />
                 <CountryPicker />
+                <Chart />
             </div>
         )
     }
