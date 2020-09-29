@@ -9,6 +9,7 @@ class App extends React.Component{
                 <Cards />
                 <Chart />
                 <CountryPicker />
+                <CountryPicker />
             </div>
         )
     }
